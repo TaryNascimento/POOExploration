@@ -1,7 +1,7 @@
 public class TestaGetESet {
     public static void main(String[] args) {
 
-        Conta conta = new Conta(1333, 2979);
+        Conta conta = new Conta(1337, 2979);
         // não compila, pois o número é privado
         //conta.numero = 1337;
 
